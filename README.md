@@ -84,5 +84,4 @@ Project is complete.
 
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by @developedbyed and was based on [this tutorial](https://www.youtube.com/watch?v=oMBXdZzYqEk).
