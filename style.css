@@ -10,7 +10,7 @@
 
 .description {
   width: 40%;
-  background-color: rgb(255, 255, 255, 0.5);
+  background-color: rgb(255, 255, 255);
   border-radius: 5px;
   text-align: center;
   padding: 20px;
@@ -60,16 +60,6 @@
   transform: translate(-50%, -50%) rotate(-90deg);
   pointer-events: none;
 }
-
-/* .time-select {
-  background-color: lightblue;
-}
-.sound-picker {
-  background-color: lightgreen;
-}
-.player-container {
-  background: lightcoral;
-} */
 
 .time-display {
   position: absolute;
