@@ -37,7 +37,7 @@ Version control & deployment
 
 ## Screenshots
 
-![ezgif com-video-to-gif (5)](https://user-images.githubusercontent.com/74564476/226142900-62a292b7-2823-4233-bb1c-8e0c6a13a0c0.gif)
+![ezgif com-video-to-gif (6)](https://user-images.githubusercontent.com/74564476/226169597-265ac9dc-156d-4dbe-86d4-f69eaafd11ef.gif)
 
 ## Setup
 
