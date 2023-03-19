@@ -56,6 +56,7 @@ open index.html
 
 
 ## Usage
+
 To use this project, you'll need a text editor and a web browser installed on your computer. 
 
 1. Open the project directory in your favorite code editor.
@@ -65,13 +66,13 @@ To use this project, you'll need a text editor and a web browser installed on yo
 
 ```
 git add .
-git commit -m "Update portfolio content"
+git commit -m "Update content"
 git push
 ```
 
 **Deployment**
 
-To deploy your portfolio website to a hosting service such as GitHub Pages or Heroku, follow these steps:
+To deploy your website to a hosting service such as GitHub Pages or Heroku, follow these steps:
 
 1. Create a new repository on GitHub and push your portfolio website code to it.
 2. Enable GitHub Pages or create a new site on Heroku.
