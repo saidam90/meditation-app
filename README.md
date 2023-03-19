@@ -14,8 +14,8 @@
 
 ## General Information
 
-The Meditation app allows users to select a guided meditation session by setting a timer and desired sound for their session. 
-The app is designed to be minimalist, allowing users to focus on their meditation practice without any distractions.
+The Meditation app allows you to set a timer and desired sound for your meditation session. 
+The app is designed to be minimalist, allowing you to focus on your meditation practice without any distractions.
 
 
 ## Technologies Used
@@ -31,9 +31,7 @@ Version control & deployment
 
 ## Features
 - Simple, minimalist interface
-- Set a timer for your session
-- Set a sound for your session 
-
+- Set a timer and sound for your session
 
 ## Screenshots
 
